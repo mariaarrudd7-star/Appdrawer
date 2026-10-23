@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppDrawer</string>
+    <string name="inicio">inicio</string>
+    <string name="perfil">perfil</string>
+    <string name="configura_o">configuraçâo</string>
+    <string name="configuracao">configuracao</string>
+</resources>
